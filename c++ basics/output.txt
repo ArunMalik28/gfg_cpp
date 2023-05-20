@@ -1,0 +1,12 @@
+8
+4
+4
+Pointers Class
+8
+8
+Pointers primitive data type
+8
+4
+Pointers to structure
+8
+0.7777
